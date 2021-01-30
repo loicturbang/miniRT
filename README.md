@@ -17,13 +17,21 @@ Bonus : 0/15
 ## Scene elements
 
 Resolution `R`
+
 Ambiant light `A`
+
 Camera `c`
+
 Light `l`
+
 Sphere `sp`
+
 Plane `pl`
+
 Square `sq`
+
 Cylinder `cy`
+
 Triangle `tr`
 
 ## How to run
